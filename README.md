@@ -1,5 +1,5 @@
 # push-notifications
 
-- clone 
+- git clone 
 - npm install
 - app should be live in localhost:5000
